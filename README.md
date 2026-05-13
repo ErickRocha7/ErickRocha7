@@ -53,16 +53,16 @@ Ao longo de mais de **14 anos no Banco Daycoval**, evolui do operacional ao estr
 </td>
 <td valign="center">
 <br>
-🔴 &nbsp;**Exposição estrutural** com potencial impacto **bilionário** — identificada e mitigada
+🔴 &nbsp;Exposição estrutural com potencial impacto bilionário — identificada e mitigada
  
 <br>
-🟢 &nbsp;**Perdas financeiras recorrentes** — 100% eliminadas
+🟢 &nbsp;Perdas financeiras recorrentes — 100% eliminadas
  
 <br>
-🟢 &nbsp;**Auditoria interna** — zero apontamentos
+🟢 &nbsp;Auditoria interna — zero apontamentos
  
 <br>
-🟡 &nbsp;**Escalabilidade** sem crescimento proporcional de headcount
+🟡 &nbsp;Escalabilidade sem crescimento proporcional de headcount
  
 </td>
 </tr>
