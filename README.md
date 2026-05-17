@@ -5,7 +5,7 @@
  
 *Eficiência Operacional · Transformação Digital · Risco & Governança*
  
-[![LinkedIn]([https://www.linkedin.com/in/erickdelimarocha/)](https://www.linkedin.com/in/erickrocha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Erick%20Rocha-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickdelimarocha/)
 [![Banco Daycoval](https://img.shields.io/badge/Banco-Daycoval-FF6600?style=flat&logoColor=white)](https://www.daycoval.com.br)
 ![São Paulo](https://img.shields.io/badge/📍-São%20Paulo%2C%20Brasil-gray?style=flat)
  
