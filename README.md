@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="banner.png" alt="Banner Erick Rocha" width="100%">
+</div>
+
+<br/>
+
+<div align="center">
 
 # Erick de Lima Rocha
  
